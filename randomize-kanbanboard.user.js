@@ -8,8 +8,8 @@
 // @match        xxx
 // @grant        none
 // @require      https://raw.githubusercontent.com/smotastic/wait-for-elements/master/wait-for-key.js
-// @downloadURL  xxx
-// @updateURL    xxx
+// @downloadURL  https://github.com/smotastic/tamper-monkey-scripts/blob/master/randomize-kanbanboard.user.js
+// @updateURL    https://github.com/smotastic/tamper-monkey-scripts/blob/master/randomize-kanbanboard.user.js
 // ==/UserScript==
 
 (function () {
